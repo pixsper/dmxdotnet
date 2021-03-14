@@ -19,4 +19,4 @@ The library is release under the [MIT license](https://opensource.org/licenses/M
 
 ## Copyright
 
-Copyright (c) 2021 Pixsper Ltd.
+Copyright (c) 2022 Pixsper Ltd.
